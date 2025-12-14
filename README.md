@@ -107,7 +107,7 @@ All visuals update dynamically based on selection.
 ---
 
 ## 📸 Dashboard Preview
-![Blinkit Grocery Sales Dashboard]([Snapshot%20of%20Blinkit%20Grocery%20Sales%20Dashboard.png](https://github.com/gaurav-0022/Blinkit-Grocery-Sales-Dashboard-/blob/main/Snapshot%20of%20Blinkit%20Grocery%20Sales%20Dashboard.png))
+![Blinkit Grocery Sales Dashboard](Snapshot%20of%20Blinkit%20Grocery%20Sales%20Dashboard.png)
 
 ---
 
